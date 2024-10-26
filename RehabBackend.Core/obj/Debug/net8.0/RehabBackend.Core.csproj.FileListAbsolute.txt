@@ -1,0 +1,11 @@
+C:\projects\RehabBackend\RehabBackend.Core\bin\Debug\net8.0\RehabBackend.Core.deps.json
+C:\projects\RehabBackend\RehabBackend.Core\bin\Debug\net8.0\RehabBackend.Core.dll
+C:\projects\RehabBackend\RehabBackend.Core\bin\Debug\net8.0\RehabBackend.Core.pdb
+C:\projects\RehabBackend\RehabBackend.Core\obj\Debug\net8.0\RehabBackend.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\RehabBackend\RehabBackend.Core\obj\Debug\net8.0\RehabBackend.Core.AssemblyInfoInputs.cache
+C:\projects\RehabBackend\RehabBackend.Core\obj\Debug\net8.0\RehabBackend.Core.AssemblyInfo.cs
+C:\projects\RehabBackend\RehabBackend.Core\obj\Debug\net8.0\RehabBackend.Core.csproj.CoreCompileInputs.cache
+C:\projects\RehabBackend\RehabBackend.Core\obj\Debug\net8.0\RehabBackend.Core.dll
+C:\projects\RehabBackend\RehabBackend.Core\obj\Debug\net8.0\refint\RehabBackend.Core.dll
+C:\projects\RehabBackend\RehabBackend.Core\obj\Debug\net8.0\RehabBackend.Core.pdb
+C:\projects\RehabBackend\RehabBackend.Core\obj\Debug\net8.0\ref\RehabBackend.Core.dll

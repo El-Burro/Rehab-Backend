@@ -1,0 +1,17 @@
+C:\projects\RehabBackend\RehabBackend.Services\obj\Debug\net8.0\RehabBackend.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\RehabBackend\RehabBackend.Services\obj\Debug\net8.0\RehabBackend.Services.AssemblyInfoInputs.cache
+C:\projects\RehabBackend\RehabBackend.Services\obj\Debug\net8.0\RehabBackend.Services.AssemblyInfo.cs
+C:\projects\RehabBackend\RehabBackend.Services\obj\Debug\net8.0\RehabBackend.Services.csproj.CoreCompileInputs.cache
+C:\projects\RehabBackend\RehabBackend.Services\bin\Debug\net8.0\RehabBackend.Services.deps.json
+C:\projects\RehabBackend\RehabBackend.Services\bin\Debug\net8.0\RehabBackend.Services.dll
+C:\projects\RehabBackend\RehabBackend.Services\bin\Debug\net8.0\RehabBackend.Services.pdb
+C:\projects\RehabBackend\RehabBackend.Services\bin\Debug\net8.0\RehabBackend.Core.dll
+C:\projects\RehabBackend\RehabBackend.Services\bin\Debug\net8.0\RehabBackend.Data.dll
+C:\projects\RehabBackend\RehabBackend.Services\bin\Debug\net8.0\RehabBackend.Data.pdb
+C:\projects\RehabBackend\RehabBackend.Services\bin\Debug\net8.0\RehabBackend.Core.pdb
+C:\projects\RehabBackend\RehabBackend.Services\obj\Debug\net8.0\RehabBackend.Services.csproj.AssemblyReference.cache
+C:\projects\RehabBackend\RehabBackend.Services\obj\Debug\net8.0\RehabBac.D0FF30CA.Up2Date
+C:\projects\RehabBackend\RehabBackend.Services\obj\Debug\net8.0\RehabBackend.Services.dll
+C:\projects\RehabBackend\RehabBackend.Services\obj\Debug\net8.0\refint\RehabBackend.Services.dll
+C:\projects\RehabBackend\RehabBackend.Services\obj\Debug\net8.0\RehabBackend.Services.pdb
+C:\projects\RehabBackend\RehabBackend.Services\obj\Debug\net8.0\ref\RehabBackend.Services.dll
